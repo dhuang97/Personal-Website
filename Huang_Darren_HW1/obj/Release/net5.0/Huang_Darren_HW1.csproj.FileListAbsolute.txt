@@ -1,0 +1,78 @@
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/appsettings.Development.json
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/appsettings.json
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/libman.json
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/Huang_Darren_HW1.deps.json
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/Huang_Darren_HW1.runtimeconfig.json
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/Huang_Darren_HW1.runtimeconfig.dev.json
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/Huang_Darren_HW1.dll
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/ref/Huang_Darren_HW1.dll
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/Huang_Darren_HW1.pdb
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/Huang_Darren_HW1.Views.dll
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/Huang_Darren_HW1.Views.pdb
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.csproj.AssemblyReference.cache
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.AssemblyInfoInputs.cache
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.AssemblyInfo.cs
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.csproj.CoreCompileInputs.cache
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.MvcApplicationPartsAssemblyInfo.cache
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.RazorAssemblyInfo.cache
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.RazorAssemblyInfo.cs
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/staticwebassets/Huang_Darren_HW1.StaticWebAssets.Manifest.cache
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/staticwebassets/Huang_Darren_HW1.StaticWebAssets.xml
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/scopedcss/bundle/Huang_Darren_HW1.styles.css
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.TagHelpers.input.cache
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.TagHelpers.output.cache
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.RazorCoreGenerate.cache
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Razor/Views/Home/AboutMe.cshtml.g.cs
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Razor/Views/Home/Music.cshtml.g.cs
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.RazorTargetAssemblyInfo.cache
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.RazorTargetAssemblyInfo.cs
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.Views.pdb
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.dll
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/ref/Huang_Darren_HW1.dll
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.pdb
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.genruntimeconfig.cache
+/Users/darrenhuang/Documents/fall21 school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.csproj.CopyComplete
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/appsettings.Development.json
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/appsettings.json
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/libman.json
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/Huang_Darren_HW1.deps.json
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/Huang_Darren_HW1.runtimeconfig.json
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/Huang_Darren_HW1.runtimeconfig.dev.json
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/Huang_Darren_HW1.dll
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/ref/Huang_Darren_HW1.dll
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/Huang_Darren_HW1.pdb
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/Huang_Darren_HW1.Views.dll
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/bin/Release/net5.0/Huang_Darren_HW1.Views.pdb
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.csproj.AssemblyReference.cache
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.AssemblyInfoInputs.cache
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.AssemblyInfo.cs
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.csproj.CoreCompileInputs.cache
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.MvcApplicationPartsAssemblyInfo.cache
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.RazorAssemblyInfo.cache
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.RazorAssemblyInfo.cs
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/staticwebassets/Huang_Darren_HW1.StaticWebAssets.Manifest.cache
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/staticwebassets/Huang_Darren_HW1.StaticWebAssets.xml
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/scopedcss/bundle/Huang_Darren_HW1.styles.css
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.TagHelpers.input.cache
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.TagHelpers.output.cache
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.RazorCoreGenerate.cache
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Razor/Views/Home/AboutMe.cshtml.g.cs
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Razor/Views/Home/Music.cshtml.g.cs
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.RazorTargetAssemblyInfo.cache
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.RazorTargetAssemblyInfo.cs
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.Views.pdb
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.dll
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/ref/Huang_Darren_HW1.dll
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.pdb
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.genruntimeconfig.cache
+/Users/darrenhuang/Documents/fall21_school/MIS333k/Huang_Darren_HW1/Huang_Darren_HW1/obj/Release/net5.0/Huang_Darren_HW1.csproj.CopyComplete

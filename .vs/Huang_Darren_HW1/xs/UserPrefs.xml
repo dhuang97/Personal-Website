@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{2924AB41-7C0F-4B29-B9DC-C5A6335AEF9E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Huang_Darren_HW1/Program.cs">
+    <Files>
+      <File FileName="Huang_Darren_HW1/Views/Shared/_Layout.cshtml" Line="14" Column="22" />
+      <File FileName="Huang_Darren_HW1/Views/Home/Index.cshtml" />
+      <File FileName="Huang_Darren_HW1/Controllers/HomeController.cs" />
+      <File FileName="Huang_Darren_HW1/Startup.cs" />
+      <File FileName="Huang_Darren_HW1/libman.json" />
+      <File FileName="Huang_Darren_HW1/Program.cs" Line="27" Column="1" />
+      <File FileName="Huang_Darren_HW1/Properties/launchSettings.json" />
+      <File FileName="Huang_Darren_HW1/Views/Home/AboutMe.cshtml" />
+      <File FileName="Huang_Darren_HW1/Views/Home/Music.cshtml" />
+      <File FileName="Huang_Darren_HW1/Views/_ViewStart.cshtml" />
+      <File FileName="Huang_Darren_HW1/Views/_ViewImports.cshtml" />
+      <File FileName="Huang_Darren_HW1/wwwroot/lib/twitter-bootstrap/css/bootstrap.css.map" />
+      <File FileName="Huang_Darren_HW1/wwwroot/lib/twitter-bootstrap/scss/_forms.scss" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Huang_Darren_HW1" expanded="True">
+            <Node name="Huang_Darren_HW1" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="files" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="twitter-bootstrap" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Huang__Darren__HW1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
