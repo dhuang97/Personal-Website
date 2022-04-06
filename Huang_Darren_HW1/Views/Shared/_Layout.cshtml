@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/lib/twitter-bootstrap/css/bootstrap1.css" rel="stylesheet" />
+    <link href="~/css/styles.css" rel="stylesheet" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a asp-action="Index" class="navbar-brand">Darren Huang</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-content" aria-controls="nav-content" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="nav-content">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a asp-action="Index" class="nav-link">
+                            Home
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-house-door-fill" viewBox="0 0 16 16">
+                                <path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5z" />
+                            </svg>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-action="AboutMe" class="nav-link">
+                            About Me
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info-circle-fill" viewBox="0 0 16 16">
+                                <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm.93-9.412l-1 4.705c-.07.34.029.533.304.533.194 0 .487-.07.686-.246l-.088.416c-.287.346-.92.598-1.465.598-.703 0-1.002-.422-.808-1.319l.738-3.468c.064-.293.006-.399-.287-.47l-.451-.081.082-.381 2.29-.287zM8 5.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2z" />
+                            </svg>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-action="Music" class="nav-link">
+                            Music
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark-music-fill" viewBox="0 0 16 16">
+                                <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0zM9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1zM11 6.64v1.75l-2 .5v3.61c0 .495-.301.883-.662 1.123C7.974 13.866 7.499 14 7 14c-.5 0-.974-.134-1.338-.377-.36-.24-.662-.628-.662-1.123s.301-.883.662-1.123C6.026 11.134 6.501 11 7 11c.356 0 .7.068 1 .196V6.89a1 1 0 0 1 .757-.97l1-.25A1 1 0 0 1 11 6.64z" />
+                            </svg>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-action="Resume" class="nav-link">
+                            Resume
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-arrow-down-fill" viewBox="0 0 16 16">
+                                <path d="M12 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM8 5a.5.5 0 0 1 .5.5v3.793l1.146-1.147a.5.5 0 0 1 .708.708l-2 2a.5.5 0 0 1-.708 0l-2-2a.5.5 0 1 1 .708-.708L7.5 9.293V5.5A.5.5 0 0 1 8 5z" />
+                            </svg>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        @RenderBody()
+    </div>
+
+    
+    <footer>
+        <hr class="hr-danger" />
+
+        <div class="btn-group-lg text-center">
+            <h3>How to Contact Me</h3>
+            <br />
+            <div class="row row-cols-1 row-cols-md-3 justify-content-md-center">
+                <div class="card bg-light mb-3" style="max-width: 20rem;">
+                    <div class="card-header"><b>Instagram</b></div>
+                    <div class="card-body">
+                        <a href="https://www.instagram.com/_darrenhuang_/" style="color:blue">Instagram</a>
+                        <p class="card-text">Check out my Instagram! Feel free to give me a follow or shoot me a DM.</p>
+                    </div>
+                </div>
+
+                <div class="card bg-light mb-3" style="max-width: 20rem;">
+                    <div class="card-header"><b>Facebook</b></div>
+                    <div class="card-body">
+                        <a href="https://www.facebook.com/darren.huang.98/" style="color:blue">Facebook</a>
+                        <p class="card-text">Check out my Facebook! Feel free to add me as a friend or private message me.</p>
+                    </div>
+                </div>
+
+                <div class="card bg-light mb-3" style="max-width: 20rem;">
+                    <div class="card-header"><b>Email</b></div>
+                    <div class="card-body">
+                        <a href="mailto:darren.huang.h@utexas.edu?subject=Inquiry" style="color:blue">darren.huang.h@utexas.edu</a>
+                        <p class="card-text">Feel free to shoot me an email! I try to check it as often as possible.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+
+
+    <script src="/lib/jquery/jquery.min.js"></script>
+    <script src="/lib/popper.js/umd/popper.min.js"></script>
+    <script src="/lib/twitter-bootstrap/js/bootstrap.bundle.js"></script>
+    <script src="/lib/jquery-validate/jquery.validate.min.js"></script>
+    <script src="/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
